@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ImageData",
+    "\\ImageData\\ImageData"
   ],
+  "SelectedNode": "\\ImageData\\ImageData\\ImageData.pyproj",
   "PreviewInSolutionExplorer": false
 }
